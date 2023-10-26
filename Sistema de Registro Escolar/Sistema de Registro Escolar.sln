@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sistema de Registro Escolar", "Sistema de Registro Escolar.vcxproj", "{C1564C95-9C9C-4756-8A77-64E6A2893EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Debug|x64.ActiveCfg = Debug|x64
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Debug|x64.Build.0 = Debug|x64
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Debug|x86.Build.0 = Debug|Win32
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Release|x64.ActiveCfg = Release|x64
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Release|x64.Build.0 = Release|x64
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Release|x86.ActiveCfg = Release|Win32
+		{C1564C95-9C9C-4756-8A77-64E6A2893EB1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3EB3527-1016-4325-A7BF-6A2077169F18}
+	EndGlobalSection
+EndGlobal
